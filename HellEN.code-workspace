@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Classwork"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HellEN"
+	}
+}
